@@ -5,6 +5,7 @@ import { Medal } from 'lucide-react';
 
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
+import { Logo } from '@/components/logo';
 
 const headingFont = localFont({
   src: '../../public/fonts/font.woff2',
