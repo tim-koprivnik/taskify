@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import localFont from 'next/font/local';
-
 import { cn } from '@/lib/utils';
 
 const headingFont = localFont({
